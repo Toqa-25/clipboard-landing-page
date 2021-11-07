@@ -30,7 +30,7 @@ body{
     /* background-color: rgb(88, 28, 28); */
 }
 .pad{
-    padding: 120px 0 ;
+    padding: 110px 0 ;
 }
 .mrg{
     margin-bottom: 40px;
@@ -238,7 +238,7 @@ header{
 */
 footer{
     margin-top: 30px;
-    padding: 20px;
+    padding-bottom: 40px;
     background-color:hsla(202, 11%, 66%, 0.096);
 }
 .foot{
